@@ -1,1 +1,3 @@
 Laboratorio 1 de calidad de software
+
+Este es un archivo de nota
